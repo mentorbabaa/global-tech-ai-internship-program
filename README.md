@@ -7,18 +7,23 @@ This repository contains real-world projects and code samples developed during t
 ## 🧰 Skills You’ll Learn
 - Artificial Intelligence & Machine Learning
 - Generative AI & Prompt Engineering
-- Cloud Infrastructure (AWS, Azure)
+- Cloud Infrastructure (AWS or Azure or GCP)
 - DevOps (Jenkins, Docker, Kubernetes)
 - GitHub Collaboration & CI/CD
+- Python and Linux
 
 ## 📁 What's Inside
 - ✅ Weekly projects and tasks
 - ✅ Sample codebases (Flask, Streamlit, etc.)
 - ✅ DevOps pipelines
 - ✅ Cloud deployment examples
+- ✅ Generative AI
+- ✅ Prompt Engineering
+- ✅ GenAI Apps and RAG Architecture
+- ✅ Agentic AI and Workflows
 
 ## 📜 License
-MIT – Free to use, improve, and share.
+Mentorbaba Academy United States – Free to use, improve, and share.
 
 ---
 
