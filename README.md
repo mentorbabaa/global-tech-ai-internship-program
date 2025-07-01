@@ -1,6 +1,3 @@
-# Global Tech AI Internship Program 2025 from Mentorbaba Academy, United States
-Mentorbaba's cutting edge project driven Internship program to equip learners with AI/ML, Cloud and DevOps skills.
-
 # 🌍 Global Tech AI Internship Program 2025 – Mentorbaba Academy (USA)
 
 🚀 Mentorbaba’s cutting-edge, project-driven internship designed to equip aspiring technologists with hands-on experience in **AI/ML**, **Cloud**, and **DevOps**.
