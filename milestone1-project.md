@@ -182,6 +182,3 @@ CMD ["python", "app.py"]
 ```
 
 ---
-
-## 📫 License
-This project is open-source under MIT.
