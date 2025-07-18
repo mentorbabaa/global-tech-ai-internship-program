@@ -9,7 +9,6 @@ Develop a full-stack quiz application with Python Flask backend and MySQL databa
 
 ### 1. User Management
 - Users must be able to register using email and password.
-- Passwords must be securely hashed and stored.
 - Users must be able to log in and log out.
 - Session management with secure cookies.
 
@@ -19,14 +18,14 @@ Develop a full-stack quiz application with Python Flask backend and MySQL databa
 - Questions are stored in MySQL database.
 
 ### 3. Quiz Flow
-- User sees a confirmation page before starting the quiz.
+- Upon Login, User sees a confirmation page before starting the quiz.
 - Each question is timed (30 seconds per question).
 - Timer auto-advances to the next question when time is up.
-- Navigation buttons to move forward and backward between questions.
+- Navigation buttons to move forward and backward between questions or any other question.
 - Users can submit answers at any point.
 
 ### 4. Result Management
-- Users’ answers are stored along with correctness.
+- Users’ answers are stored along with correctness in database.
 - Results page shows:
   - Number of correct and incorrect answers.
   - Total score.
@@ -42,7 +41,6 @@ Develop a full-stack quiz application with Python Flask backend and MySQL databa
 
 ### 2. Security
 - Passwords stored using strong hashing (e.g., bcrypt).
-- Secure session management to prevent hijacking.
 - Input validation to prevent SQL Injection and XSS attacks.
 
 ### 3. Usability
@@ -60,10 +58,5 @@ Develop a full-stack quiz application with Python Flask backend and MySQL databa
 - SQL scripts for database schema.
 - Excel template for question upload.
 - README with detailed setup and usage instructions.
+- Screenshot of completing workflow of running application.
 
----
-
-## Timeline
-- Week 1-2: Backend APIs + DB schema + Authentication.
-- Week 3: Frontend UI + Quiz flow + Timer.
-- Week 4: Testing, documentation, and polish.
